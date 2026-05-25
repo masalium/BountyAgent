@@ -21,5 +21,5 @@
     "standard": "ERC-8004 target",
     "agentUriPurpose": "Public metadata describing BountyAgent"
   },
-  "repository": "TO_BE_ADDED"
+  "repository": "https://github.com/masalium/BountyAgent"
 }
