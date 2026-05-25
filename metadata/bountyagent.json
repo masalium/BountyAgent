@@ -1,0 +1,25 @@
+{
+  "name": "BountyAgent",
+  "description": "A paid autonomous microtask agent that accepts small tasks, receives x402 payment, completes the task, verifies the deliverable, and returns a receipt tied to its ERC-8004 identity.",
+  "version": "0.1.0",
+  "capabilities": [
+    "paid microtask execution",
+    "verified lead pack generation",
+    "task receipt generation",
+    "agent-to-agent verification via VerifyAgent"
+  ],
+  "demoTask": "Generate a verified lead pack for a user's requested opportunity category.",
+  "interfaces": [
+    "Telegram/OpenClaw target",
+    "local CLI mock"
+  ],
+  "payments": {
+    "mode": "x402 target, local mock before hackathon",
+    "pricingModel": "low-cost microtask payment"
+  },
+  "identity": {
+    "standard": "ERC-8004 target",
+    "agentUriPurpose": "Public metadata describing BountyAgent"
+  },
+  "repository": "TO_BE_ADDED"
+}

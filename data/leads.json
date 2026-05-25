@@ -1,0 +1,34 @@
+[
+  {
+    "company": "Northside Family Clinic",
+    "role": "Medical Administrative Assistant",
+    "location": "Toronto, ON",
+    "source": "Mock dataset for hackathon demo",
+    "fitReason": "Requires patient records, scheduling, documentation, and data accuracy.",
+    "nextAction": "Prepare a healthcare-admin resume and apply through the clinic careers/contact page."
+  },
+  {
+    "company": "MapleCare Pharmacy",
+    "role": "Pharmacy Assistant",
+    "location": "North York, ON",
+    "source": "Mock dataset for hackathon demo",
+    "fitReason": "Matches pharmacy support, inventory records, billing support, and detail-heavy workflow skills.",
+    "nextAction": "Call the pharmacy manager and ask whether they are accepting pharmacy assistant resumes."
+  },
+  {
+    "company": "Harbour Health Records Office",
+    "role": "Health Records Assistant",
+    "location": "Toronto, ON",
+    "source": "Mock dataset for hackathon demo",
+    "fitReason": "Strong match for structured records, confidentiality, documentation, and reporting workflows.",
+    "nextAction": "Apply with a records/documentation-focused resume and mention healthcare privacy training."
+  },
+  {
+    "company": "Cedarview Specialist Clinic",
+    "role": "Clinic Administrative Assistant",
+    "location": "Scarborough, ON",
+    "source": "Mock dataset for hackathon demo",
+    "fitReason": "Requires front-office coordination, intake forms, patient communication, and accurate records.",
+    "nextAction": "Send resume directly to the office manager after applying online."
+  }
+]
